@@ -1,0 +1,16 @@
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: #dbdbdb;
+}
+
+img {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+body {
+  background-color: #696969;
+  font-family: sans-serif;
+}
