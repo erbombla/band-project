@@ -4,6 +4,11 @@
   background-color: #dbdbdb;
 }
 
+.column {
+  width: 300px;
+  float: left;
+}
+
 img {
   float: right;
   width: 100px;
