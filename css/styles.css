@@ -2,6 +2,9 @@
   width: 20%;
   float: right;
   background-color: #dbdbdb;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 6px;
 }
 
 .column {
@@ -13,6 +16,7 @@ img {
   float: right;
   width: 100px;
   height: 100px;
+  padding: 10px;
 }
 
 body {
